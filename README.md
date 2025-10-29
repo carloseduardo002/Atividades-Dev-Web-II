@@ -11,26 +11,6 @@ Este projeto demonstra os principais conceitos de React com TypeScript apresenta
 
 ---
 
-## 🚀 Como rodar o projeto
-
-### 1. Instale as dependências
-
-```bash
-npm install
-# ou
-yarn
-```
-
-### 2. Rode o projeto em modo desenvolvimento
-
-```bash
-npm run dev
-# ou
-yarn dev
-```
-
-Acesse `http://localhost:5173` no navegador.
-
 ---
 
 ## 🎯 Exercício – Galeria de Imagens
@@ -60,12 +40,6 @@ Crie uma **galeria de imagens** usando os conceitos apresentados no exemplo da T
 ```tsx
 <ImageCard src="https://placecats.com/neo_banana/300/200" legenda="Gatinho fofo" />
 ```
-
-### 📤 Entrega
-
-- Subir no GitHub ou enviar ZIP com:
-  - Código fonte do projeto
-  - Prints do funcionamento (opcional)
 
 ---
 
