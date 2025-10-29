@@ -40,9 +40,3 @@ Crie uma **galeria de imagens** usando os conceitos apresentados no exemplo da T
 ```tsx
 <ImageCard src="https://placecats.com/neo_banana/300/200" legenda="Gatinho fofo" />
 ```
-
----
-
-## 🤝 **Dúvidas?**
-
-Caso tenha dúvidas, entre em contato pelo **Discord** ou pelo e-mail do professor. Bons estudos e divirta-se!
